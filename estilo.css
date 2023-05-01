@@ -42,7 +42,7 @@ nav{
     z-index: 9999;
 }
 .menu-horizontal li:hover .menu-vertical{
-    display: block;
+    display:block;
 }
 .menu-vertical li:hover{
     background-color: rgb(226, 200, 200);
@@ -157,3 +157,5 @@ article {
 footer{
     margin-top: 40px;
 }
+
+

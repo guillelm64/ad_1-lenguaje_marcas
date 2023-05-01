@@ -25,10 +25,13 @@ body{
     text-align: center;
 }
 .home{
-    margin-top: 0px;
-    margin-left: -1180px;
+   
     font-size: 14;
     color: black;
-    
+}
 
+.fondo{
+    background-color: white;
+    width: 10%;
+    height: 25px;
 }
